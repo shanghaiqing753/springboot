@@ -1,2 +1,1 @@
-# springboot
-新手练习
+hi ,my first show
